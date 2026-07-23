@@ -407,6 +407,7 @@ const translations = {
         "tag.urbanAnalytics": "Urban Analytics",
 
         "research.title": "Research",
+        "research.tabSelected": "Selected",
         "research.tabAll": "All",
         "research.tabPapers": "Papers",
         "research.tabConferences": "Conferences",
@@ -470,6 +471,7 @@ const translations = {
         "tag.urbanAnalytics": "Analítica Urbana",
 
         "research.title": "Investigación",
+        "research.tabAll": "Selección",
         "research.tabAll": "Todo",
         "research.tabPapers": "Artículos",
         "research.tabConferences": "Congresos",
